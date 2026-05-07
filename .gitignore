@@ -1,0 +1,35 @@
+# Dependências
+node_modules/
+backend/node_modules/
+frontend/node_modules/
+
+# Build do frontend
+frontend/dist/
+
+# Variáveis de ambiente
+.env
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Arquivos de estudo (não fazem parte do projeto)
+aulao.html
+estudo-basico.html
+estudo-basico-2.html
+estudo-arquitetura.html
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Editor / ferramentas locais
+.vscode/
+.idea/
+.claude/
+
+# XAMPP / outros
+index.php
+
+# VSCode extension (artefato local)
+*.vsix
