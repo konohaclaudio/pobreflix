@@ -238,14 +238,6 @@ npm run dev   # inicia em http://localhost:5173
 
 ---
 
-## Material de estudo
 
-O repositório inclui documentos HTML sobre a arquitetura do projeto — abra direto no navegador, sem precisar de servidor:
-
-- `estudo-basico.html` — explicação completa das camadas com fluxo, comparações e SOLID
-- `estudo-basico-2.html` — versão condensada para consulta rápida
-- `aulao.html` — aulão completo sobre como o projeto foi construído do zero
-
----
 
 Feito com Node.js · Express · React · Vite · TMDb API
